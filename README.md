@@ -1,6 +1,4 @@
-# ContactScribe : Your Digital Rolodex
-
-# Contact Keeper: A Simple Tkinter-based Contact Management App
+# ContactScribe : A Simple Tkinter-based Contact Management App
 
 ## Introduction:
 Contact Keeper is an intuitive and user-friendly contact management application designed to streamline the process of storing and organizing contact information. Built using Python and Tkinter GUI toolkit, this application offers a convenient platform for users to manage their contacts effortlessly.
